@@ -1,6 +1,11 @@
 <br clear="both">
+<div align="center">
+  <img height="200" src="https://i.ibb.co/pr8Jzsf/White-Minimalist-Profile-Linked-In-Banner-2.png"  />
+</div>
 
-<h2 align="left">Hi 👋! My name is Shariar Arefin and I'm a Front-End Developer</h2>
+###
+
+<h2 align="center">Hi 👋! My name is Shariar Arefin and I'm a Front-End Developer</h2>
 
 ###
 
@@ -40,3 +45,4 @@
 </div>
 
 ###
+
